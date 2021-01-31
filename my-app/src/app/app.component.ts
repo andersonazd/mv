@@ -8,3 +8,6 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'my-app';
 }
+export class AppComponent {
+  title = 'my-app';
+}
